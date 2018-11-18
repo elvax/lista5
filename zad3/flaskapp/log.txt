@@ -1,0 +1,7 @@
+user: 222222@student.pwr.edu.pl, pass: moje haslouser: 222222@student.pwr.edu.pl, pass: passworduser: 123, pass: 123user: 111111@student.pwr.edu.pl, pass: haslo
+user: test_from, pass: vortual_machine
+user: marcin@student.pwr, pass: haslo
+user: , pass: 
+user: ztelefonu, pass: ztelefonu
+user: blabla@fmail.com, pass: zvirtualmachine
+user: marcin, pass: marcin
